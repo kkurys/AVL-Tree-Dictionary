@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1448023833 source:c:\users\student\desktop\drzewka\sad\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+
+1448028981 source:d:\ró¿ne\informatyka\c++\avl_recursive2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdlib.h>
+

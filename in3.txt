@@ -1,0 +1,13 @@
+12
+ADD jan
+ADD opal
+ADD tata
+ADD elf
+ADD lolek
+ADD niania
+ADD bob
+ADD arek
+ADD cerber
+ADD handel
+ADD mama
+ADD ania
